@@ -30,7 +30,7 @@ The plugin adds a new column to KeePass. When double-clicking the column for a s
 
 ## Prerequisites
 
-- Download the [pwned-passwords-sha1-ordered-by-hash-v4.txt](https://haveibeenpwned.com/Passwords) file from 
+- Download the [pwned-passwords-sha1-ordered-by-hash-v7.txt](https://haveibeenpwned.com/Passwords) file from 
 haveibeenpwned.com [password list](https://haveibeenpwned.com/Passwords). Use the torrent if possible, as suggested by the author.
 
     __It's important that you get the SHA-1 (ordered by hash) version of the file, the plugin uses it for fast searching__.
